@@ -1,0 +1,262 @@
+!SESSION 2012-01-24 22:11:11.855 -----------------------------------------------
+eclipse.buildId=I20090611-1540
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_PH
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-24 22:13:54.873
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.873
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.873
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.873
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.873
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.873
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.873
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-24 22:13:54.877
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.877
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.877
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.877
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.877
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.877
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.877
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-24 22:13:54.914
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.914
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.914
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.914
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.914
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.914
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.914
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-24 22:13:54.984
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.984
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.984
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.984
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-24 22:13:54.984
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.984
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-24 22:13:54.984
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-24 22:18:56.226
+!MESSAGE Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/
+!STACK 1
+org.eclipse.equinox.internal.provisional.p2.core.ProvisionException: Communication with repository at http://download.eclipse.org/tools/mylyn/update/e3.4/ failed.
+	at org.eclipse.equinox.internal.p2.metadata.repository.CacheManager.createCache(CacheManager.java:136)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:61)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.validateAndLoad(CompositeMetadataRepositoryFactory.java:103)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:87)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:54)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:669)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:617)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:88)
+	at org.eclipse.equinox.internal.provisional.p2.ui.operations.ProvisioningUtil.loadMetadataRepository(ProvisioningUtil.java:88)
+	at org.eclipse.equinox.internal.provisional.p2.ui.QueryableMetadataRepositoryManager.doLoadRepository(QueryableMetadataRepositoryManager.java:55)
+	at org.eclipse.equinox.internal.provisional.p2.ui.QueryableRepositoryManager.loadRepository(QueryableRepositoryManager.java:195)
+	at org.eclipse.equinox.internal.provisional.p2.ui.QueryableRepositoryManager.loadAll(QueryableRepositoryManager.java:108)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.run(PreloadingRepositoryHandler.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:188)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:71)
+	... 1 more
+!SUBENTRY 1 org.eclipse.equinox.p2.repository 4 1002 2012-01-24 22:18:56.228
+!MESSAGE Communication with repository at http://download.eclipse.org/tools/mylyn/update/e3.4/ failed.
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:188)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.engine 4 4 2012-01-25 00:34:44.206
+!MESSAGE An error occurred while collecting items to be installed
+!SUBENTRY 1 org.eclipse.equinox.p2.engine 4 0 2012-01-25 00:34:44.206
+!MESSAGE session context was:(profile=epp.package.jee, phase=org.eclipse.equinox.internal.provisional.p2.engine.phases.Collect, operand=, action=).
+!SUBENTRY 1 org.eclipse.equinox.p2.repository 4 1002 2012-01-25 00:34:44.206
+!MESSAGE Unable to read repository at http://dl.google.com/eclipse/plugin/3.5/plugins/com.google.gdt.eclipse.managedapis_2.5.1.v201201120043-rel-r35.jar.
+!STACK 0
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(SocketInputStream.java:129)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:218)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:237)
+	at org.apache.commons.httpclient.HttpParser.readRawLine(HttpParser.java:78)
+	at org.apache.commons.httpclient.HttpParser.readLine(HttpParser.java:106)
+	at org.apache.commons.httpclient.HttpConnection.readLine(HttpConnection.java:1116)
+	at org.apache.commons.httpclient.MultiThreadedHttpConnectionManager$HttpConnectionAdapter.readLine(MultiThreadedHttpConnectionManager.java:1413)
+	at org.apache.commons.httpclient.HttpMethodBase.readStatusLine(HttpMethodBase.java:1973)
+	at org.apache.commons.httpclient.HttpMethodBase.readResponse(HttpMethodBase.java:1735)
+	at org.apache.commons.httpclient.HttpMethodBase.execute(HttpMethodBase.java:1098)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer$GzipGetMethod.execute(HttpClientRetrieveFileTransfer.java:113)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeWithRetry(HttpMethodDirector.java:398)
+	at org.apache.commons.httpclient.HttpMethodDirector.executeMethod(HttpMethodDirector.java:171)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:397)
+	at org.apache.commons.httpclient.HttpClient.executeMethod(HttpClient.java:346)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:992)
+	at org.eclipse.ecf.provider.filetransfer.httpclient.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:584)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:808)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:506)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:98)
+	at org.eclipse.equinox.internal.p2.repository.FileReader.sendRetrieveRequest(FileReader.java:317)
+	at org.eclipse.equinox.internal.p2.repository.FileReader.readInto(FileReader.java:263)
+	at org.eclipse.equinox.internal.p2.repository.RepositoryTransport.download(RepositoryTransport.java:70)
+	at org.eclipse.equinox.internal.p2.repository.RepositoryTransport.download(RepositoryTransport.java:121)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:472)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.downloadArtifact(SimpleArtifactRepository.java:455)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:522)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.getArtifact(MirrorRequest.java:200)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transferSingle(MirrorRequest.java:175)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.transfer(MirrorRequest.java:159)
+	at org.eclipse.equinox.internal.p2.artifact.repository.MirrorRequest.perform(MirrorRequest.java:95)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.SimpleArtifactRepository.getArtifact(SimpleArtifactRepository.java:511)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.DownloadJob.run(DownloadJob.java:64)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-25 12:52:27.424
+!MESSAGE Unable to load the repository http://download.eclipse.org/tools/mylyn/update/e3.4/
+!STACK 1
+org.eclipse.equinox.internal.provisional.p2.core.ProvisionException: No repository found at http://download.eclipse.org/tools/mylyn/update/e3.4/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:380)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:606)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:88)
+	at org.eclipse.equinox.internal.provisional.p2.ui.operations.ProvisioningUtil.loadMetadataRepository(ProvisioningUtil.java:88)
+	at org.eclipse.equinox.internal.provisional.p2.ui.QueryableMetadataRepositoryManager.doLoadRepository(QueryableMetadataRepositoryManager.java:55)
+	at org.eclipse.equinox.internal.provisional.p2.ui.QueryableRepositoryManager.loadRepository(QueryableRepositoryManager.java:195)
+	at org.eclipse.equinox.internal.provisional.p2.ui.QueryableRepositoryManager.loadAll(QueryableRepositoryManager.java:108)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.run(PreloadingRepositoryHandler.java:71)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2012-01-25 12:52:27.439
+!MESSAGE No repository found at http://download.eclipse.org/tools/mylyn/update/e3.4/.
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2012-01-25 12:55:28.633
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\JANEDR~1\AppData\Local\Temp\epp.package.jee_26a266cd2260_ac13181ee266
+!SESSION 2012-01-25 12:56:34.807 -----------------------------------------------
+eclipse.buildId=
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_PH
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.update.configurator 4 0 2012-01-25 12:57:04.175
+!MESSAGE Unable to find feature.xml in directory: C:\Dev\Tools\eclipse\features\org.tigris.subversion.subclipse_1.0.6.jar
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-25 13:14:11.016
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.016
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.016
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.016
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.016
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.016
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.016
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-25 13:14:11.019
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.019
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.019
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.019
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.019
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.019
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.019
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-25 13:14:11.023
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.023
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.023
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.023
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.023
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.023
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.023
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
+
+!ENTRY org.eclipse.equinox.p2.ui 4 0 2012-01-25 13:14:11.042
+!MESSAGE Operation details
+!SUBENTRY 1 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.042
+!MESSAGE Cannot complete the install because one or more required items could not be found.
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.042
+!MESSAGE Software being installed: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.042
+!MESSAGE Missing requirement: com.google.gdt.eclipse.mobile.android 2.5.1.v201201120043-rel-r35 requires 'bundle com.android.ide.eclipse.adt 12.0.0' but it could not be found
+!SUBENTRY 2 org.eclipse.equinox.p2.director 4 1 2012-01-25 13:14:11.042
+!MESSAGE Cannot satisfy dependency:
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.042
+!MESSAGE From: Google App Engine Tools for Android 2.5.1.v201201120043-rel-r35 (com.google.gdt.eclipse.mobile.android.feature.feature.group 2.5.1.v201201120043-rel-r35)
+!SUBENTRY 3 org.eclipse.equinox.p2.director 4 0 2012-01-25 13:14:11.042
+!MESSAGE To: com.google.gdt.eclipse.mobile.android [2.5.1.v201201120043-rel-r35]
